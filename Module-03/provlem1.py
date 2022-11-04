@@ -1,7 +1,7 @@
 data = "aNtEriOur/n/t"
 New_data = data.lower()
 New_data = data.length()
-print =(new_data)
+print =(New_data)
 # output_data = ''
 
 # for character in New_data:

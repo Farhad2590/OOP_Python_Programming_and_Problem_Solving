@@ -1,4 +1,5 @@
-number = 111
+number = input("please enter your marks: ")
+number = int(number)
 
 if number >= 100:
     print("Undefined Number")
