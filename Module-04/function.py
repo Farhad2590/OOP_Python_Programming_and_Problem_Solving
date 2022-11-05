@@ -5,7 +5,10 @@ def double_it(num):
 # double_it(50)
 def add(num1,num2):
     total = num1 + num2
-    print(total)
+    return total
+
+sum = add(56,23)
+print(sum)
 
 # add(56,23)
 
