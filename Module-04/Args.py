@@ -24,3 +24,4 @@ def multiply2(*numbers):
 #     # return result
 final_result = multiply2(12,2,3,5,6)
 print(final_result)
+
