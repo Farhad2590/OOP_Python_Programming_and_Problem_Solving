@@ -7,3 +7,6 @@ print(result)
 # print('sum in modules.py', sum)
 
 # result = function.multiply(12,3)
+
+from math import factorial
+print(math.factorial(5))
